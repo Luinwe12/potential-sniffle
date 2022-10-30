@@ -1,0 +1,8 @@
+D:\Users\luinw\source\repos\Knowleadge_Check_2\Knowleadge_Check_2\bin\Debug\Knowleadge_Check_2.exe.config
+D:\Users\luinw\source\repos\Knowleadge_Check_2\Knowleadge_Check_2\bin\Debug\Knowleadge_Check_2.exe
+D:\Users\luinw\source\repos\Knowleadge_Check_2\Knowleadge_Check_2\bin\Debug\Knowleadge_Check_2.pdb
+D:\Users\luinw\source\repos\Knowleadge_Check_2\Knowleadge_Check_2\obj\Debug\Knowleadge_Check_2.csproj.AssemblyReference.cache
+D:\Users\luinw\source\repos\Knowleadge_Check_2\Knowleadge_Check_2\obj\Debug\Knowleadge_Check_2.csproj.SuggestedBindingRedirects.cache
+D:\Users\luinw\source\repos\Knowleadge_Check_2\Knowleadge_Check_2\obj\Debug\Knowleadge_Check_2.csproj.CoreCompileInputs.cache
+D:\Users\luinw\source\repos\Knowleadge_Check_2\Knowleadge_Check_2\obj\Debug\Knowleadge_Check_2.exe
+D:\Users\luinw\source\repos\Knowleadge_Check_2\Knowleadge_Check_2\obj\Debug\Knowleadge_Check_2.pdb
